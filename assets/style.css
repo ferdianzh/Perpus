@@ -1,7 +1,7 @@
 body {
   background-color: whitesmoke;
   min-height: 2000px;
-  font-family: "Roboto";
+  font-family: Helvetica, sans-serif;
 }
 
 .navbar {
